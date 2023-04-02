@@ -1,0 +1,61 @@
+body {
+    background-image: url(https://static1.squarespace.com/static/59029c27ff7c50908d2b94a0/t/6148542e1cce2a3fcb3c6c35/1632130095319/bg-1.jpg);
+    }
+.header_Ul{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    align-items: center;    
+}
+.white_A{
+    color: white;
+}
+#cartinka_1{
+    max-width: 200px;
+}
+#cartinka_2{
+    max-width: 400px;
+}
+#cartinka_3{
+    max-width: 450px;
+}
+#cartinka_4{
+    max-width: 250px;
+}
+#cartinka_5{
+    max-width: 250px;
+}
+#cartinka_6{
+    max-width: 250px;
+}
+.section_1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 35px;
+    align-items: center
+}
+#button_1{
+    display: block;
+    margin: 10px auto 0 auto;
+    min-width: 120px;
+    min-height: 60px;
+    font-size: 22px;
+}
+.section_2 h2{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.section_2_ul{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+    align-items: center;
+}
+.section_3{
+    display: flex;
+    justify-content: center;
+}
+.section_3 video{
+    width: 80%;
+}
